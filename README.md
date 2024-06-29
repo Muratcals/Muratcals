@@ -10,12 +10,14 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>  
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Html" width="40" height="40"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="Css" width="40" height="40"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="Sql" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Html" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="Css" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="Sql" width="40" height="40"/> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muratcals&show_icons=true&title_color=0d0c0c&locale=en&layout=compact" alt="muratcals" /></p>
