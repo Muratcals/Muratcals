@@ -9,6 +9,9 @@
 <a href="https://www.instagram.com/muratcals2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muratcals2/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>  </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muratcals&show_icons=true&title_color=0d0c0c&locale=en&layout=compact" alt="muratcals" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muratcals&show_icons=true&locale=en" alt="muratcals" /></p>
