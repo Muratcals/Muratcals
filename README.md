@@ -18,7 +18,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="Sql" width="40" height="40"/> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muratcals&show_icons=true&title_color=0d0c0c&locale=en&layout=compact" alt="muratcals" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muratcals&show_icons=true&title_color=0d0c0c&locale=en&layout=compact" alt="muratcals" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muratcals&show_icons=true&locale=en" alt="muratcals" /></p>
 
